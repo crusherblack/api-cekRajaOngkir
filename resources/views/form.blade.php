@@ -83,7 +83,7 @@
                             <h6>Berat Paket</h6>
                             <div class="form-group">
                                 <input name="weight" type="number" class="form-control" required>
-                                <small>Dalam gram contoh: 1700 = 1,7kg</small>
+                                <small>Dalam KG = 1 atau Dalam gram contoh: 1700 = 1,7kg</small>
                             </div>
                         </div>
                         <div class="col-sm-6">
